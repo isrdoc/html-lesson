@@ -1,0 +1,11 @@
+.btn {
+    padding: 20px;
+}
+
+#custom-hover:hover {
+    background: red;
+}
+
+.row > div {
+    border: 1px solid black;
+}
